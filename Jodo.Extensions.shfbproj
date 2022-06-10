@@ -23,8 +23,8 @@
     <Language>en-US</Language>
     <TransformComponentArguments>
       <Argument Key="logoFile" Value="Icon.png" />
-      <Argument Key="logoHeight" Value="256" />
-      <Argument Key="logoWidth" Value="256" />
+      <Argument Key="logoHeight" Value="64" />
+      <Argument Key="logoWidth" Value="64" />
       <Argument Key="logoAltText" Value="" />
       <Argument Key="logoPlacement" Value="left" />
       <Argument Key="logoAlignment" Value="left" />
@@ -35,9 +35,9 @@
       <Argument Key="baseSourceCodeUrl" Value="https://github.com/JosephJShort/Jodo.Extensions/blob/main/src/" />
       <Argument Key="requestExampleUrl" Value="" />
     </TransformComponentArguments>
-    <HelpFileFormat>Markdown</HelpFileFormat>
+    <HelpFileFormat>Website</HelpFileFormat>
     <SyntaxFilters>C#</SyntaxFilters>
-    <PresentationStyle>Markdown</PresentationStyle>
+    <PresentationStyle>VS2013</PresentationStyle>
     <CleanIntermediates>True</CleanIntermediates>
     <KeepLogFile>True</KeepLogFile>
     <DisableCodeBlockComponent>False</DisableCodeBlockComponent>
@@ -85,7 +85,7 @@
     <ContentLayout Include="ContentLayout.content" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="Icon.png" Link="icons\Icon.png">
+    <Image Include="icons\Icon.png">
       <ImageId>Icon</ImageId>
       <AlternateText>Icon</AlternateText>
     </Image>
