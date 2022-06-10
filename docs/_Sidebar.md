@@ -1,4 +1,4 @@
-- [Welcome](welcome)
+- [Index](index)
 - [API Reference](R_Project_Jodo_Extensions_Documentation)
   - [Jodo.Extensions.CheckedNumerics Namespace](N_Jodo_Extensions_CheckedNumerics)
     - [cbyte Structure](T_Jodo_Extensions_CheckedNumerics_cbyte)

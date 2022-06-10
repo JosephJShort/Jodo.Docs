@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Topics>
-  <Topic id="welcome" visible="True" isSelected="true" />
+  <Topic id="index" visible="True" isSelected="true" />
 </Topics>

@@ -79,7 +79,7 @@
     <Folder Include="icons\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Welcome.aml" />
+    <None Include="Index.aml" />
   </ItemGroup>
   <ItemGroup>
     <ContentLayout Include="ContentLayout.content" />
