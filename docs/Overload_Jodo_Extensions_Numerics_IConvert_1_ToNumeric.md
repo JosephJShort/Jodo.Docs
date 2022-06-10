@@ -1,0 +1,13 @@
+# IConvert(*N*).ToNumeric Method 
+ _**\[This is preliminary documentation and is subject to change.\]**_
+
+
+## Overload List
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric">ToNumeric(Boolean)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_1">ToNumeric(Byte)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_2">ToNumeric(Decimal)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_3">ToNumeric(Double)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_4">ToNumeric(Int16)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_5">ToNumeric(Int32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_6">ToNumeric(Int64)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_7">ToNumeric(SByte)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_8">ToNumeric(Single)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_9">ToNumeric(String)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_10">ToNumeric(UInt16)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_11">ToNumeric(UInt32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IConvert_1_ToNumeric_12">ToNumeric(UInt64)</a></td><td /></tr></table>&nbsp;
+<a href="#iconvert(*n*).tonumeric-method">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Jodo_Extensions_Numerics_IConvert_1">IConvert(N) Interface</a><br /><a href="N_Jodo_Extensions_Numerics">Jodo.Extensions.Numerics Namespace</a><br />

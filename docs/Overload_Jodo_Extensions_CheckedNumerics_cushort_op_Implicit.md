@@ -1,0 +1,13 @@
+# cushort&nbsp;Implicit Conversion Operators
+ _**\[This is preliminary documentation and is subject to change.\]**_
+
+
+## Overload List
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit_7">Implicit(Byte to cushort)</a></td><td /></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit_1">Implicit(cushort to Decimal)</a></td><td /></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit_2">Implicit(cushort to Double)</a></td><td /></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit_4">Implicit(cushort to Int64)</a></td><td /></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit_3">Implicit(cushort to Single)</a></td><td /></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit">Implicit(cushort to UInt16)</a></td><td /></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit_5">Implicit(cushort to UInt32)</a></td><td /></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit_6">Implicit(cushort to UInt64)</a></td><td /></tr><tr><td>![Public operator](media/puboperator.gif "Public operator")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_CheckedNumerics_cushort_op_Implicit_8">Implicit(UInt16 to cushort)</a></td><td /></tr></table>&nbsp;
+<a href="#cushort&nbsp;implicit-conversion-operators">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Jodo_Extensions_CheckedNumerics_cushort">cushort Structure</a><br /><a href="N_Jodo_Extensions_CheckedNumerics">Jodo.Extensions.CheckedNumerics Namespace</a><br />

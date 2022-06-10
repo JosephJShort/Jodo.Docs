@@ -1,0 +1,15 @@
+# AARectangle(*N*) Properties
+ _**\[This is preliminary documentation and is subject to change.\]**_
+
+The <a href="T_Jodo_Extensions_Geometry_AARectangle_1">AARectangle(N)</a> generic type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_Bottom">Bottom</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_BottomCenter">BottomCenter</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_BottomLeft">BottomLeft</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_BottomRight">BottomRight</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_Height">Height</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_Left">Left</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_LeftCenter">LeftCenter</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_Right">Right</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_RightCenter">RightCenter</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_Top">Top</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_TopCenter">TopCenter</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_TopLeft">TopLeft</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_TopRight">TopRight</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Geometry_AARectangle_1_Width">Width</a></td><td /></tr></table>&nbsp;
+<a href="#aarectangle(*n*)-properties">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Jodo_Extensions_Geometry_AARectangle_1">AARectangle(N) Structure</a><br /><a href="N_Jodo_Extensions_Geometry">Jodo.Extensions.Geometry Namespace</a><br />

@@ -1,0 +1,34 @@
+# NumericUtilities Class
+ _**\[This is preliminary documentation and is subject to change.\]**_
+
+\[Missing <summary> documentation for "T:Jodo.Extensions.Numerics.NumericUtilities"\]
+
+
+## Inheritance Hierarchy
+<a href="https://docs.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">System.Object</a><br />&nbsp;&nbsp;Jodo.Extensions.Numerics.NumericUtilities<br />
+**Namespace:**&nbsp;<a href="N_Jodo_Extensions_Numerics">Jodo.Extensions.Numerics</a><br />**Assembly:**&nbsp;Jodo.Extensions.Numerics (in Jodo.Extensions.Numerics.dll) Version: 1.1.0.0
+
+## Syntax
+
+**C#**<br />
+``` C#
+public static class NumericUtilities
+```
+
+<a href="https://github.com/JosephJShort/Jodo.Extensions/blob/main/src/Jodo.Extensions.Numerics/NumericUtilities.cs" rel="noopener noreferrer" title="View the source code">View Source</a><br />
+The NumericUtilities type exposes the following members.
+
+
+## Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_BitwiseComplement">BitwiseComplement(Decimal)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_BitwiseComplement_1">BitwiseComplement(Double)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_BitwiseComplement_2">BitwiseComplement(Single)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LeftShift">LeftShift(Decimal, Int32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LeftShift_1">LeftShift(Double, Int32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LeftShift_2">LeftShift(Single, Int32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalAnd">LogicalAnd(Decimal, Decimal)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalAnd_1">LogicalAnd(Double, Double)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalAnd_2">LogicalAnd(Single, Single)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalExclusiveOr">LogicalExclusiveOr(Decimal, Decimal)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalExclusiveOr_1">LogicalExclusiveOr(Double, Double)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalExclusiveOr_2">LogicalExclusiveOr(Single, Single)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalOr">LogicalOr(Decimal, Decimal)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalOr_1">LogicalOr(Double, Double)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_LogicalOr_2">LogicalOr(Single, Single)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_RightShift">RightShift(Decimal, Int32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_RightShift_1">RightShift(Double, Int32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_NumericUtilities_RightShift_2">RightShift(Single, Int32)</a></td><td /></tr></table>&nbsp;
+<a href="#numericutilities-class">Back to Top</a>
+
+## Fields
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public field](media/pubfield.gif "Public field")![Static member](media/static.gif "Static member")</td><td><a href="F_Jodo_Extensions_Numerics_NumericUtilities_DegreesPerRadian">DegreesPerRadian</a></td><td /></tr><tr><td>![Public field](media/pubfield.gif "Public field")![Static member](media/static.gif "Static member")</td><td><a href="F_Jodo_Extensions_Numerics_NumericUtilities_DegreesPerRadianF">DegreesPerRadianF</a></td><td /></tr><tr><td>![Public field](media/pubfield.gif "Public field")![Static member](media/static.gif "Static member")</td><td><a href="F_Jodo_Extensions_Numerics_NumericUtilities_DegreesPerRadianM">DegreesPerRadianM</a></td><td /></tr><tr><td>![Public field](media/pubfield.gif "Public field")![Static member](media/static.gif "Static member")</td><td><a href="F_Jodo_Extensions_Numerics_NumericUtilities_RadiansPerDegree">RadiansPerDegree</a></td><td /></tr><tr><td>![Public field](media/pubfield.gif "Public field")![Static member](media/static.gif "Static member")</td><td><a href="F_Jodo_Extensions_Numerics_NumericUtilities_RadiansPerDegreeF">RadiansPerDegreeF</a></td><td /></tr><tr><td>![Public field](media/pubfield.gif "Public field")![Static member](media/static.gif "Static member")</td><td><a href="F_Jodo_Extensions_Numerics_NumericUtilities_RadiansPerDegreeM">RadiansPerDegreeM</a></td><td /></tr></table>&nbsp;
+<a href="#numericutilities-class">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="N_Jodo_Extensions_Numerics">Jodo.Extensions.Numerics Namespace</a><br />

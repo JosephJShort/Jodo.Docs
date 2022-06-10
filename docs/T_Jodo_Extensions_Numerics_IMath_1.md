@@ -1,0 +1,35 @@
+# IMath(*N*) Interface
+ _**\[This is preliminary documentation and is subject to change.\]**_
+
+\[Missing <summary> documentation for "T:Jodo.Extensions.Numerics.IMath`1"\]
+
+**Namespace:**&nbsp;<a href="N_Jodo_Extensions_Numerics">Jodo.Extensions.Numerics</a><br />**Assembly:**&nbsp;Jodo.Extensions.Numerics (in Jodo.Extensions.Numerics.dll) Version: 1.1.0.0
+
+## Syntax
+
+**C#**<br />
+``` C#
+public interface IMath<N>
+
+```
+
+<a href="https://github.com/JosephJShort/Jodo.Extensions/blob/main/src/Jodo.Extensions.Numerics/IMath.cs" rel="noopener noreferrer" title="View the source code">View Source</a><br />
+
+#### Type Parameters
+&nbsp;<dl><dt>N</dt><dd>\[Missing <typeparam name="N"/> documentation for "T:Jodo.Extensions.Numerics.IMath`1"\]</dd></dl>&nbsp;
+The IMath(N) type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Numerics_IMath_1_E">E</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Numerics_IMath_1_PI">PI</a></td><td /></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_Jodo_Extensions_Numerics_IMath_1_Tau">Tau</a></td><td /></tr></table>&nbsp;
+<a href="#imath(*n*)-interface">Back to Top</a>
+
+## Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Abs">Abs</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Acos">Acos</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Acosh">Acosh</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Asin">Asin</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Asinh">Asinh</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Atan">Atan</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Atan2">Atan2</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Atanh">Atanh</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Cbrt">Cbrt</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Ceiling">Ceiling</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Clamp">Clamp</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Cos">Cos</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Cosh">Cosh</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_DegreesToRadians">DegreesToRadians</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Exp">Exp</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Floor">Floor</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_IEEERemainder">IEEERemainder</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Log">Log(N)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Log_1">Log(N, N)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Log10">Log10</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Max">Max</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Min">Min</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Pow">Pow</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_RadiansToDegrees">RadiansToDegrees</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Round">Round(N)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Round_1">Round(N, Int32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Round_3">Round(N, MidpointRounding)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Round_2">Round(N, Int32, MidpointRounding)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Sign">Sign</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Sin">Sin</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Sinh">Sinh</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Sqrt">Sqrt</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Tan">Tan</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Tanh">Tanh</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Jodo_Extensions_Numerics_IMath_1_Truncate">Truncate</a></td><td /></tr></table>&nbsp;
+<a href="#imath(*n*)-interface">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="N_Jodo_Extensions_Numerics">Jodo.Extensions.Numerics Namespace</a><br />

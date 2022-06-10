@@ -1,0 +1,13 @@
+# Clamp(*N*) Methods
+ _**\[This is preliminary documentation and is subject to change.\]**_
+
+
+## Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric">ToNumeric(Byte)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_1">ToNumeric(Decimal)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_2">ToNumeric(Double)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_3">ToNumeric(Int16)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_4">ToNumeric(Int32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_5">ToNumeric(Int64)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_6">ToNumeric(SByte)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_7">ToNumeric(Single)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_8">ToNumeric(UInt16)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_9">ToNumeric(UInt32)</a></td><td /></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_Jodo_Extensions_Numerics_Clamp_1_ToNumeric_10">ToNumeric(UInt64)</a></td><td /></tr></table>&nbsp;
+<a href="#clamp(*n*)-methods">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Jodo_Extensions_Numerics_Clamp_1">Clamp(N) Class</a><br /><a href="N_Jodo_Extensions_Numerics">Jodo.Extensions.Numerics Namespace</a><br />
