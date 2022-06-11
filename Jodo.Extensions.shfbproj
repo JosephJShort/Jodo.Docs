@@ -23,8 +23,8 @@
     <Language>en-US</Language>
     <TransformComponentArguments>
       <Argument Key="logoFile" Value="Icon.png" />
-      <Argument Key="logoHeight" Value="64" />
-      <Argument Key="logoWidth" Value="64" />
+      <Argument Key="logoHeight" Value="" />
+      <Argument Key="logoWidth" Value="" />
       <Argument Key="logoAltText" Value="" />
       <Argument Key="logoPlacement" Value="left" />
       <Argument Key="logoAlignment" Value="left" />
@@ -69,6 +69,7 @@
     </NamespaceSummaries>
     <SourceCodeBasePath>..\Jodo.Extensions\src\</SourceCodeBasePath>
     <WarnOnMissingSourceContext>False</WarnOnMissingSourceContext>
+    <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, InheritedFrameworkMembers, Protected, ProtectedInternalAsProtected, NonBrowsable</VisibleItems>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
   </PropertyGroup>
@@ -79,16 +80,19 @@
     <Folder Include="icons\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Index.aml" />
+    <Content Include="icons\favicon.ico" />
   </ItemGroup>
   <ItemGroup>
     <ContentLayout Include="ContentLayout.content" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="icons\Icon.png">
+    <Content Include="icons\Icon.png">
       <ImageId>Icon</ImageId>
       <AlternateText>Icon</AlternateText>
-    </Image>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Introduction.aml" />
   </ItemGroup>
   <!-- Import the common build targets during NuGet restore because before the packages are being installed, $(SHFBROOT) is not set yet -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="'$(MSBuildRestoreSessionId)' != ''" />
