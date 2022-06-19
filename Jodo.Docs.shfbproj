@@ -62,11 +62,11 @@
       <DocumentationSource sourceFile="..\Jodo\src\Jodo.Collections\Jodo.Collections.csproj" />
     </DocumentationSources>
     <NamespaceSummaries>
-      <NamespaceSummaryItem name="Jodo.CheckedNumerics" isDocumented="True" xmlns="" />
-      <NamespaceSummaryItem name="Jodo.Primitives" isDocumented="True" xmlns="" />
-      <NamespaceSummaryItem name="System" isDocumented="False" xmlns="" />
-      <NamespaceSummaryItem name="System.Linq" isDocumented="False" xmlns="" />
-    </NamespaceSummaries>
+      <NamespaceSummaryItem name="Jodo.CheckedNumerics" isDocumented="True" />
+<NamespaceSummaryItem name="Jodo.Primitives" isDocumented="True" />
+<NamespaceSummaryItem name="System" isDocumented="False" />
+<NamespaceSummaryItem name="System.Linq" isDocumented="False" />
+<NamespaceSummaryItem name="Jodo.Numerics" isDocumented="True">Provides the INumeric&lt;N&gt; interface and utilities for creating custom numeric types.</NamespaceSummaryItem></NamespaceSummaries>
     <SourceCodeBasePath>..\Jodo\src\</SourceCodeBasePath>
     <WarnOnMissingSourceContext>False</WarnOnMissingSourceContext>
     <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, InheritedFrameworkMembers, Protected, ProtectedInternalAsProtected, NonBrowsable</VisibleItems>
@@ -75,12 +75,12 @@
     <ComponentConfigurations>
       <ComponentConfig id="Code Block Component" enabled="True" xmlns="">
         <component id="Code Block Component">
-  <basePath value="{@HtmlEncProjectFolder}" />
-  <outputPaths>{@HelpFormatOutputPaths}</outputPaths>
-  <allowMissingSource value="false" />
-  <removeRegionMarkers value="false" />
-  <colorizer syntaxFile="{@CoreComponentsFolder}Colorizer\highlight.xml" styleFile="{@CoreComponentsFolder}Colorizer\highlight.xsl" stylesheet="{@CoreComponentsFolder}Colorizer\highlight.css" scriptFile="{@CoreComponentsFolder}Colorizer\highlight.js" disabled="{@DisableCodeBlockComponent}" language="cs" tabSize="0" numberLines="false" outlining="false" keepSeeTags="false" defaultTitle="true" />
-</component>
+          <basePath value="{@HtmlEncProjectFolder}" />
+          <outputPaths>{@HelpFormatOutputPaths}</outputPaths>
+          <allowMissingSource value="false" />
+          <removeRegionMarkers value="false" />
+          <colorizer syntaxFile="{@CoreComponentsFolder}Colorizer\highlight.xml" styleFile="{@CoreComponentsFolder}Colorizer\highlight.xsl" stylesheet="{@CoreComponentsFolder}Colorizer\highlight.css" scriptFile="{@CoreComponentsFolder}Colorizer\highlight.js" disabled="{@DisableCodeBlockComponent}" language="cs" tabSize="0" numberLines="false" outlining="false" keepSeeTags="false" defaultTitle="true" />
+        </component>
       </ComponentConfig>
     </ComponentConfigurations>
     <HeaderText>
