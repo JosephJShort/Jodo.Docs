@@ -1,2 +1,2 @@
-Jodo.Extensions.Docs
+Jodo.Docs
 ====================
